@@ -12,3 +12,4 @@ C:\Cibernetica\El Regalo de Felipe\Solution\obj\Debug\net8.0\refint\Solution.dll
 C:\Cibernetica\El Regalo de Felipe\Solution\obj\Debug\net8.0\Solution.pdb
 C:\Cibernetica\El Regalo de Felipe\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
 C:\Cibernetica\El Regalo de Felipe\Solution\obj\Debug\net8.0\ref\Solution.dll
+C:\Cibernetica\El Regalo de Felipe\Solution\obj\Debug\net8.0\Solution.sourcelink.json
